@@ -20,7 +20,7 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['917034167123'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -75,23 +75,23 @@ global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
 
 
 
-global.img = 'https://i.imgur.com/IXlUwTW.jpg'
-global.img2 = 'https://i.imgur.com/EXTbyyn.jpg'
-global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' 
-global.img4 = 'https://i.imgur.com/i0pccuo.jpg' 
-global.img5 = 'https://i.imgur.com/iL1snRx.jpeg'
-global.img6 = 'https://i.imgur.com/cYFgSKv.jpeg'
-global.img7 = 'https://i.imgur.com/JqL3h2V.jpeg'
-global.img8 = 'https://i.imgur.com/PCujt1s.jpeg'
-global.img9 = 'https://i.imgur.com/xfUEdDb.jpeg'
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg'
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg'
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg'
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg'
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg'
-global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg'
-global.img16 = 'https://i.imgur.com/JpYfcH0.jpeg'
-global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'
+global.img = 'https://telegra.ph/file/c8b3f523d83fe0afdc18e.jpg'
+global.img2 = 'https://telegra.ph/file/636e6a54058dbdbfc34f6.jpg'
+global.img3 = 'https://telegra.ph/file/b860bb0ea2ed03e0ebd56.jpg' 
+global.img4 = 'https://telegra.ph/file/2aca8804640d8fa4a7983.jpg' 
+global.img5 = 'https://telegra.ph/file/c79b8bf42806b0cc6627b.jpg'
+global.img6 = 'https://telegra.ph/file/769c828b21d243bd76bf8.jpg'
+global.img7 = 'https://telegra.ph/file/ddab80e8ad4c3467a04d5.jpg'
+global.img8 = 'https://telegra.ph/file/6930293f2b916a0194676.jpg'
+global.img9 = 'https://telegra.ph/file/885708c89b3e5dd238637.jpg'
+global.img10 = 'https://telegra.ph/file/0ad5f7d3b27e0f00cf18e.jpg'
+global.img11 = 'https://telegra.ph/file/02cb932153f48063783b3.jpg'
+global.img12 = 'https://telegra.ph/file/662d52e308e0194bc8e35.jpg'
+global.img13 = 'https://telegra.ph/file/efa7fe66688530f81487c.jpg'
+global.img14 = 'https://telegra.ph/file/9ef53103ba04d6afeaa8f.jpg'
+global.img15 = 'https://telegra.ph/file/3050396f28d6321a1e1f4.jpg'
+global.img16 = 'https://telegra.ph/file/a93823ccd7f2074fb4d26.jpg'
+global.img17 = 'https://telegra.ph/file/59e412c80b60f52ce19df.jpg'
 //💌------------------------------------------💌
 
 
@@ -120,16 +120,16 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = '𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋'
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = '𝐂𝚫𝚻 𝐒𝚸𝐘'
+global.princebot = '🛡️𝐂𝚫𝚻 𝐒𝚸𝐘🛡️'
+global.packname = '𝐂𝚫𝚻 𝐒𝚸𝐘♥️' 
+global.author = '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷♥️' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.princegp = 'https://chat.whatsapp.com/Gz866L8ZATyJvDx6YZHctQ'
+global.menuvid = 'https://i.imgur.com/fJ5KkpW.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
